@@ -92,6 +92,7 @@ certificates as they're issued by LeGo, without having to write a
 separate script.
 
 ![LeGo CertHub with APC P15 Tool](https://raw.githubusercontent.com/gregtwallace/apc-p15-tool/main/img/apc-p15-tool.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FcPacketNetworks%2Fapc-p15-tool.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FcPacketNetworks%2Fapc-p15-tool?ref=badge_shield)
 
 ## Thanks
 
@@ -103,3 +104,7 @@ https://github.com/dnlmengs/pemtrans
 https://github.com/freddy36/apc_tools
 
 http://lapo.it/asn1js/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FcPacketNetworks%2Fapc-p15-tool.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FcPacketNetworks%2Fapc-p15-tool?ref=badge_large)
